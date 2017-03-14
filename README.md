@@ -1,1 +1,1 @@
-"# Redagavimas" 
+"# com.company.Redagavimas"
